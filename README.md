@@ -7,4 +7,4 @@
 - 설명2
 
 ### :rainbow: Contributors
-| [moonstar0301](https://github.com/moonstar0301) | [dong_yxxn](https://github.com/dong_yxxn) | [minkang1015](https://github.com/minkang1015) |
+| [moonstar0301](https://github.com/moonstar0301) | [dong-yxxn](https://github.com/dong-yxxn) | [minkang1015](https://github.com/minkang1015) |
