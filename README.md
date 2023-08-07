@@ -1,7 +1,7 @@
 # LNG_price_prediction_model
 > 대구 빅데이터 분석 경진대회 에너지부문 결선작입니다.
 
-> Team.KNUDART
+> Team. KNUDART
 
 
 ## 📈프로젝트 설명
